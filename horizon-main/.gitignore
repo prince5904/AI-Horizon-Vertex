@@ -1,0 +1,54 @@
+# Virtual Environment
+comp/
+venv/
+env/
+.env/
+
+# Environment variables (NEVER commit the real .env file!)
+.env
+
+# Keep the example file
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Personal data folders (contain resumes with PII)
+incoming_resumes/*.pdf
+incoming_resumes/*.txt
+processed_candidates/*.json
+output/*.json
+output/*.csv
+output/*.png
+
+# Keep .gitkeep files to preserve folder structure
+!**/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Showcase
+showcase/node_modules/
+showcase/.next/
+showcase/out/
+showcase/build/

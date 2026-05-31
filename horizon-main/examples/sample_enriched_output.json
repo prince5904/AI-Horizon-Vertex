@@ -1,0 +1,150 @@
+{
+  "name": "Sarah Johnson",
+  "email": "sarah.johnson@email.com",
+  "phone": "+1-555-0123",
+  "linkedin_url": "https://www.linkedin.com/in/sarah-johnson",
+  "years_of_experience": 5,
+  "original_resume_text": "Sample resume content...",
+  "enriched_data": {
+    "linkedin_profile": {
+      "headline": "Senior Machine Learning Engineer at Tech Corp",
+      "summary": "Experienced ML engineer with 5+ years building production ML systems. Specialized in recommendation systems and computer vision. Led teams of 5+ engineers on high-impact projects serving millions of users.",
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "SQL",
+        "Data Analysis",
+        "Team Leadership"
+      ],
+      "experience": [
+        {
+          "title": "Senior ML Engineer",
+          "company": "Tech Corp",
+          "duration": "Jan 2021 - Present (3 years)",
+          "location": "San Francisco, CA",
+          "description": "• Led development of recommendation systems serving 10M+ users\n• Improved model accuracy by 35% through advanced feature engineering\n• Mentored team of 5 junior ML engineers\n• Reduced inference latency by 60% through model optimization",
+          "highlights": [
+            "10M+ users impacted",
+            "35% accuracy improvement",
+            "Team lead of 5 engineers"
+          ]
+        },
+        {
+          "title": "ML Engineer",
+          "company": "Startup Inc",
+          "duration": "May 2019 - Dec 2020 (1.5 years)",
+          "location": "San Francisco, CA",
+          "description": "• Built and deployed ML models for fraud detection\n• Reduced false positives by 45%\n• Implemented real-time scoring pipeline processing 1M+ transactions daily\n• Collaborated with cross-functional teams on product features",
+          "highlights": [
+            "45% reduction in false positives",
+            "1M+ transactions processed daily"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "Master of Science in Computer Science",
+          "university": "Stanford University",
+          "year": 2019,
+          "gpa": 3.9,
+          "focus": "Machine Learning and Artificial Intelligence"
+        },
+        {
+          "degree": "Bachelor of Science in Mathematics",
+          "university": "UC Berkeley",
+          "year": 2017,
+          "gpa": 3.8,
+          "honors": "Summa Cum Laude"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Machine Learning - Specialty",
+          "issuer": "Amazon Web Services",
+          "year": 2022
+        },
+        {
+          "name": "TensorFlow Developer Certificate",
+          "issuer": "Google",
+          "year": 2021
+        }
+      ],
+      "publications": [
+        {
+          "title": "Scalable Recommendation Systems for E-commerce",
+          "venue": "KDD 2022",
+          "year": 2022
+        }
+      ],
+      "languages": [
+        "English (Native)",
+        "Spanish (Professional)"
+      ]
+    },
+    "ai_enrichment": {
+      "professional_summary": "Sarah Johnson is a highly accomplished Senior ML Engineer with 5 years of experience building production-grade machine learning systems. Her expertise spans recommendation systems, fraud detection, and computer vision. She has demonstrated strong leadership by mentoring teams and has made significant technical contributions, including improving model accuracy by 35% and reducing inference latency by 60%. Her educational background from top-tier institutions (Stanford MS, UC Berkeley BS) combined with relevant certifications makes her an exceptional candidate.",
+      "key_strengths": [
+        "Production ML systems at scale (10M+ users)",
+        "Team leadership and mentoring",
+        "Performance optimization (60% latency reduction)",
+        "Cross-functional collaboration",
+        "Published research in top conferences"
+      ],
+      "technical_expertise": {
+        "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
+        "programming": ["Python", "SQL", "Bash"],
+        "cloud_platforms": ["AWS (EC2, S3, SageMaker)", "Docker", "Kubernetes"],
+        "specializations": ["Recommendation Systems", "Fraud Detection", "Computer Vision"]
+      },
+      "culture_fit_indicators": [
+        "Proven mentorship abilities",
+        "Cross-functional collaboration experience",
+        "Research contributions to community",
+        "Continuous learning (certifications)"
+      ],
+      "potential_concerns": [
+        "None identified - strong candidate across all dimensions"
+      ]
+    }
+  },
+  "scoring": {
+    "overall_score": 9.2,
+    "breakdown": {
+      "technical_skills": 9.5,
+      "experience_level": 9.0,
+      "education": 9.5,
+      "leadership": 8.5,
+      "culture_fit": 9.0
+    },
+    "justification": "Exceptional candidate with strong technical skills, proven leadership, top-tier education, and significant impact at scale. Published research demonstrates thought leadership. AWS and TensorFlow certifications validate expertise. Team mentoring experience shows leadership potential. Highly recommended for senior roles.",
+    "recommendation": "STRONG_HIRE",
+    "recommended_role": "Senior ML Engineer / ML Tech Lead",
+    "estimated_salary_range": "$180,000 - $220,000",
+    "interview_priority": "HIGH"
+  },
+  "interview_schedule": {
+    "recommended": true,
+    "interview_date": "2025-10-28",
+    "interview_time": "14:00:00",
+    "interview_duration_minutes": 60,
+    "interview_type": "Technical + Behavioral",
+    "interviewers": [
+      "Engineering Manager",
+      "Senior ML Engineer (Peer)",
+      "Product Manager"
+    ],
+    "calendar_event_id": "cal_event_abc123xyz",
+    "zoom_link": "https://zoom.us/j/123456789"
+  },
+  "metadata": {
+    "processed_date": "2025-10-21T14:30:45Z",
+    "enrichment_source": "llm_fallback",
+    "pipeline_version": "1.0.0",
+    "processing_time_seconds": 12.5
+  }
+}

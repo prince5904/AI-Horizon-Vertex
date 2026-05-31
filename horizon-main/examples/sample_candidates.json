@@ -1,0 +1,150 @@
+{
+  "candidates": [
+    {
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@email.com",
+      "phone": "+1-555-0123",
+      "linkedin_url": "https://www.linkedin.com/in/sarah-johnson",
+      "years_of_experience": 5,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "TensorFlow",
+        "PyTorch",
+        "Data Analysis",
+        "SQL",
+        "AWS"
+      ],
+      "education": [
+        {
+          "degree": "Master of Science",
+          "field": "Computer Science",
+          "university": "Stanford University",
+          "year": 2019
+        },
+        {
+          "degree": "Bachelor of Science",
+          "field": "Mathematics",
+          "university": "UC Berkeley",
+          "year": 2017
+        }
+      ],
+      "experience": [
+        {
+          "title": "Senior ML Engineer",
+          "company": "Tech Corp",
+          "duration": "2021 - Present",
+          "description": "Led development of recommendation systems serving 10M+ users"
+        },
+        {
+          "title": "ML Engineer",
+          "company": "Startup Inc",
+          "duration": "2019 - 2021",
+          "description": "Built and deployed ML models for fraud detection"
+        }
+      ],
+      "certifications": [
+        "AWS Certified Machine Learning",
+        "TensorFlow Developer Certificate"
+      ],
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Michael Chen",
+      "email": "michael.chen@techmail.com",
+      "phone": "+1-555-0456",
+      "linkedin_url": "https://www.linkedin.com/in/michael-chen-dev",
+      "years_of_experience": 3,
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "TypeScript",
+        "GraphQL",
+        "MongoDB",
+        "Docker"
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science",
+          "field": "Software Engineering",
+          "university": "MIT",
+          "year": 2020
+        }
+      ],
+      "experience": [
+        {
+          "title": "Full Stack Developer",
+          "company": "WebTech Solutions",
+          "duration": "2020 - Present",
+          "description": "Developed scalable web applications using React and Node.js"
+        }
+      ],
+      "certifications": [
+        "AWS Certified Developer"
+      ],
+      "location": "Boston, MA"
+    },
+    {
+      "name": "Emily Rodriguez",
+      "email": "emily.r@cloudmail.com",
+      "phone": "+1-555-0789",
+      "linkedin_url": "https://www.linkedin.com/in/emily-rodriguez-cloud",
+      "years_of_experience": 7,
+      "skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD",
+        "Python",
+        "Linux"
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Engineering",
+          "field": "Computer Engineering",
+          "university": "Georgia Tech",
+          "year": 2016
+        }
+      ],
+      "experience": [
+        {
+          "title": "Senior DevOps Engineer",
+          "company": "Cloud Services Inc",
+          "duration": "2020 - Present",
+          "description": "Architected and managed cloud infrastructure for enterprise clients"
+        },
+        {
+          "title": "DevOps Engineer",
+          "company": "Startup Labs",
+          "duration": "2016 - 2020",
+          "description": "Automated deployment pipelines and infrastructure provisioning"
+        }
+      ],
+      "certifications": [
+        "AWS Solutions Architect Professional",
+        "Kubernetes Administrator (CKA)",
+        "Azure DevOps Engineer Expert"
+      ],
+      "location": "Austin, TX"
+    }
+  ],
+  "job_requirements": {
+    "title": "Senior Software Engineer",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Cloud Services (AWS/Azure)",
+      "API Development"
+    ],
+    "preferred_skills": [
+      "TensorFlow/PyTorch",
+      "Docker/Kubernetes",
+      "CI/CD"
+    ],
+    "min_experience_years": 4,
+    "education_level": "Bachelor's degree or higher",
+    "location": "Remote (US only)"
+  }
+}
